@@ -1,0 +1,18 @@
+---
+name: categories
+categories:
+  - SCM
+  - CI
+  - Deployment
+  - Cloud/IaaS/PaaS
+  - BI/Monitoring
+  - Database Mgmt
+  - Repo Mgmt
+  - Config/Provisioning
+  - Release Mgmt
+  - Logging
+  - Build
+  - Testing
+  - Containerization
+  - Collaboration
+  - Security

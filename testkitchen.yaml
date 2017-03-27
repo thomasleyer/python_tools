@@ -1,0 +1,16 @@
+---
+name: TestKitchen
+category: Testing
+problem_solved: 
+related: 
+similar: 
+type: standard
+purpose: test things
+license: GPL
+license_url: www.heise.de
+license_checked_date: 24.03.2017
+license_checked_by: Thomas
+security_patches_checked_date: 24.03.2017
+secuirty_patches_checked_by: Thomas
+remarks: no remarks
+install_base: sysA, sysB
